@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjani aka Flarow4 👋 :man_technologist:
 
-![Vision Image](https://europe.naverlabs.com/wp-content/uploads/2018/11/computer-vision-img.jpg)
+![Portfolio Image](https://raw.githubusercontent.com/Anjani100/Anjani100/master/git-avatar.png)
 
 I'm an Undergrad Senior who is passionate about making open-source more accessible to the beginners in this field. Some technologies I enjoy working with include Computer Vision (Tensorflow and Keras), Natural Language Processing (NLP) and Django(Python).
 I am currently working on detecting Lung cancer cells from Histopathological images.
