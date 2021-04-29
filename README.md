@@ -11,6 +11,8 @@ I am currently working on detecting Lung cancer cells from Histopathological ima
 * Sharing work updates on [LinkedIn](https://www.linkedin.com/in/anjani-kumar-singh-77337516a/)
 * Latest Project: [NoteClub](https://www.noteclub.engineer/)
 * Resume: [Resume 3.0.6](https://github.com/Anjani100/Anjani100/blob/master/Resume%203.0.6.pdf)
+
+![Flarow's github stats](https://github-readme-stats.vercel.app/api?username=Anjani100)
 <!--
 **Anjani100/Anjani100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
